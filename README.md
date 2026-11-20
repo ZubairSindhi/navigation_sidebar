@@ -15,6 +15,8 @@ Navigation SideBar is Fully Customizable Navigator Widget.
 
 View on pub.dev: https://pub.dev/packages/navigation_sidebar
 
+Source code & issues: https://github.com/ZubairSindhi/navigation_sidebar
+
 ## Features
 
 ![Navigation with selection](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video1.gif)
