@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 import '../navigation_sidebar.dart';
 import 'navigation_sidebar_provider.dart';

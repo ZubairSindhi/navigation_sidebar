@@ -13,16 +13,18 @@ and the Flutter guide for
 
 Navigation SideBar is Fully Customizable Navigator Widget.
 
+View on pub.dev: https://pub.dev/packages/navigation_sidebar
+
 ## Features
 
-![Navigation with selection](https://github.com/ZubairSindhi/navigation_sidebar/blob/main/assets/video1.gif)
-![Navigation Items on Center](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video2.gif)
-![Navigation with Expanded Button](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video3.gif)
-![Navigation with Indicator](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video4.gif)
-![Navigation with Customization](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video5.gif)
-![Navigation with Indicator Customization](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video6.gif)
-![Navigation with Button and Top Widgets](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video7.gif)
-![Customization of Expanded Button](https://github.com/Zubi7Zubair/navigation_sidebar/blob/main/assets/video8.gif)
+![Navigation with selection](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video1.gif)
+![Navigation Items on Center](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video2.gif)
+![Navigation with Expanded Button](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video3.gif)
+![Navigation with Indicator](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video4.gif)
+![Navigation with Customization](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video5.gif)
+![Navigation with Indicator Customization](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video6.gif)
+![Navigation with Button and Top Widgets](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video7.gif)
+![Customization of Expanded Button](https://github.com/ZubairSindhi/navigation_sidebar/raw/main/assets/video8.gif)
 
 
 ## Getting started

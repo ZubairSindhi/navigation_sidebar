@@ -1,3 +1,3 @@
-## 1.3.5
+## 2.1.0
 
-Integrated Provider.
+Updated media links and some versions.
